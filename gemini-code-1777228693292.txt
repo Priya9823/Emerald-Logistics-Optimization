@@ -1,0 +1,4 @@
+Time_Window,Weather_Condition,Temp_Celsius
+08:00-09:00,Heavy Rain,9
+09:00-10:00,Light Drizzle,11
+10:00-11:00,Cloudy,12
